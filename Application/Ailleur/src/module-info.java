@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jihen
- *
- */
-module Ailleur {
-}
